@@ -1,0 +1,5 @@
+#script by szolemik
+
+command /report:
+  permission: sk.report
+  trigger:
